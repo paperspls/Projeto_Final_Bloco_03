@@ -10,11 +10,8 @@ function Navbar() {
                     Farmácia Russa
 
                     <div className='flex gap-4'>
-                        Produtos
                         <Link to='/categorias' className='hover:underline'>Categorias</Link>
                         <Link to='/cadastroCategoria' className='hover:underline'>Cadastrar Categoria</Link>
-                        Perfil
-                        Sair
                     </div>
                 </div>
             </div>
